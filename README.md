@@ -2,9 +2,9 @@
 - Angela Distratis, mail: angela.distratis@gmail.com
 - David Barmaz, mail: dbarmaz@expediagroup.com
 - Farah Fahhoum, mail: farah.fahhoum3@gmail.com
-- Farah Fahhoum, mail:b.y.alsabbagh@gmail.com
 - Bayan Yassin AlSbbagh, mail: b.y.alsabbagh@gmail.com
 - Ruba Aburub, mail: abualrubruba@gmail.com
+- Harout Mardirossian, mail: harmardir@gmail.com
 
 
 
