@@ -1,7 +1,6 @@
 # Members: 
 
 - Farah Fahhoum, mail: farah.fahhoum3@gmail.com
-- Bayan Yassin AlSbbagh, mail: b.y.alsabbagh@gmail.com
 - Ruba Aburub, mail: abualrubruba@gmail.com
 - Harout Mardirossian, mail: harmardir@gmail.com
 - David Barmaz, mail: dbarmaz@expediagroup.com
