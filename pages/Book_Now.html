@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Activity-TH Page</title>
+        <link rel="stylesheet" type="text/css" href="activity_stylesheet.css">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+        <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+        <link rel="stylesheet" href="/resources/demos/style.css">
+        <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+        <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+        <script>
+            $( function() {
+                $( "#datepicker" ).datepicker();
+            } );
+            $( function() {
+                $( "#datepicker_to" ).datepicker();
+            } );
+        </script>
+    </head>
+
+    <header>
+        <nav class="navbar navbar-expand-md navbar-dark bg-primary fixed-top">
+            <a class="navbar-brand" href="#">WEBSITE LOGO</a>
+            <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+                <ul class="navbar-nav mr-auto">
+                    <li><a class="nav-link" href="#">Volunteer </a></li>
+                    <li><a class="nav-link" href="#">Redeem </a></li>
+                    <li><a class="nav-link" href="#">List Activity </a></li>
+                    <li><a class="nav-link" href="#">About Voluntourism</a></li>
+                </ul>
+                <form class="form-inline my-2 my-lg-0">
+                    <a class="form-control mr-sm-2" href="#">Login/See My Profile</a>
+                </form>
+            </div>
+        </nav>
+    </header>
+
+<body>
+<div class="box_two"></div>
+<p>From: <input type="text" id="datepicker"></p>
+<div class="box"></div>
+<p>To: <input type="text" id="datepicker_to"></p>
+<a href="" class="btn btn-primary">Book Now!</a>
+
+
+</body>
+</html>

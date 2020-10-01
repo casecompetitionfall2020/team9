@@ -3,6 +3,12 @@
 	color: white;
 }
 
+title-ghana {
+	font-size: 30px;
+	color: Black;
+}
+
+
 .text-block {
   position: absolute;
   top: 100px;
@@ -18,6 +24,29 @@
   color: white;
 }
 
+
+.text-details-block {
+  position: absolute;
+  top: 100px;
+  left: 20px;
+  right: 20px;
+  padding-left: 20px;
+  padding-right: 60px;
+  max-width: 50%;
+  color: white;
+  font: normal;
+  color: white;
+}
+
+
 *{
   box-sizing: border-box;
+}
+
+.box {
+        margin: 30px 5px 10px 5px;
+}
+
+.box_two {
+        margin: 100px 5px 10px 5px;
 }
